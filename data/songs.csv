@@ -9,3 +9,53 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Velvet Underground,The Sable Band,jazz,relaxed,0.45,88,0.68,0.55,0.83
+12,Electric Daydream,Neon Echo,synthwave,happy,0.80,120,0.78,0.85,0.14
+13,Rainy Window,Paper Lanterns,lofi,chill,0.33,70,0.62,0.55,0.90
+14,Power Surge,Voltline,rock,intense,0.95,158,0.42,0.64,0.08
+15,Lazy Sunday,Slow Stereo,jazz,relaxed,0.36,84,0.74,0.50,0.91
+16,Polar Drift,Orbit Bloom,ambient,chill,0.25,58,0.60,0.38,0.95
+17,Neon Jungle,Max Pulse,pop,intense,0.89,136,0.80,0.90,0.06
+18,Deep Focus,LoRoom,lofi,focused,0.38,76,0.55,0.58,0.82
+19,Golden Hour,Indigo Parade,indie pop,happy,0.72,122,0.85,0.80,0.40
+20,City Lights,Neon Echo,pop,moody,0.70,114,0.52,0.75,0.20
+21,Broken Compass,The Sable Band,rock,moody,0.78,140,0.40,0.68,0.15
+22,Soft Static,LoRoom,lofi,chill,0.36,74,0.58,0.57,0.88
+23,Marathon,Max Pulse,pop,intense,0.92,138,0.75,0.87,0.04
+24,Blue Fjord,Orbit Bloom,ambient,relaxed,0.30,62,0.63,0.42,0.93
+25,Warm Vinyl,Paper Lanterns,lofi,relaxed,0.40,82,0.70,0.60,0.87
+26,Stellar Groove,Neon Echo,synthwave,happy,0.83,126,0.76,0.88,0.12
+27,Midnight Thunder,Voltline,rock,intense,0.96,160,0.38,0.62,0.07
+28,Corner Cafe,Slow Stereo,jazz,chill,0.39,86,0.72,0.52,0.90
+29,Pastel Skies,Indigo Parade,indie pop,happy,0.68,118,0.88,0.78,0.45
+30,System Overload,Max Pulse,rock,intense,0.94,155,0.44,0.70,0.09
+31,Dream Sequence,Orbit Bloom,ambient,chill,0.27,56,0.66,0.40,0.94
+32,Late Night Ride,Neon Echo,synthwave,moody,0.77,112,0.46,0.76,0.18
+33,Zen Garden,LoRoom,lofi,focused,0.35,72,0.60,0.56,0.85
+34,Glitter Pop,Max Pulse,pop,happy,0.87,130,0.83,0.91,0.07
+35,Brick & Ivy,The Sable Band,indie pop,relaxed,0.58,100,0.75,0.65,0.55
+36,Autumn Walk,Paper Lanterns,lofi,chill,0.32,68,0.64,0.54,0.91
+37,Hyper Flash,Voltline,rock,intense,0.98,165,0.35,0.60,0.05
+38,Smooth Horizons,Slow Stereo,jazz,relaxed,0.42,92,0.70,0.56,0.88
+39,Moonlit Shore,Orbit Bloom,ambient,chill,0.24,55,0.67,0.37,0.96
+40,Dance All Night,Neon Echo,pop,happy,0.91,134,0.87,0.93,0.08
+41,Overthought,The Sable Band,indie pop,moody,0.55,96,0.43,0.60,0.62
+42,Street Pulse,Max Pulse,pop,intense,0.90,142,0.72,0.89,0.06
+43,Slow Burn,LoRoom,lofi,relaxed,0.38,78,0.61,0.59,0.84
+44,Thunder Road,Voltline,rock,intense,0.93,156,0.41,0.65,0.09
+45,Lantern Festival,Indigo Parade,indie pop,happy,0.74,120,0.86,0.81,0.38
+46,Noir Alley,Neon Echo,synthwave,moody,0.73,108,0.44,0.72,0.24
+47,Sunrise Serenade,Slow Stereo,jazz,happy,0.48,94,0.78,0.60,0.86
+48,Arctic Calm,Orbit Bloom,ambient,chill,0.22,52,0.65,0.35,0.97
+49,Desk Session,LoRoom,lofi,focused,0.37,75,0.57,0.57,0.83
+50,Pop Horizon,Max Pulse,pop,happy,0.85,128,0.82,0.90,0.07
+51,Gravel Road,The Sable Band,rock,moody,0.76,144,0.39,0.67,0.13
+52,Floating Islands,Orbit Bloom,ambient,relaxed,0.26,57,0.68,0.39,0.95
+53,Vinyl Echo,Paper Lanterns,lofi,chill,0.34,71,0.63,0.56,0.89
+54,Bounce Back,Max Pulse,pop,intense,0.88,136,0.79,0.92,0.05
+55,Riverside Stroll,Slow Stereo,jazz,relaxed,0.40,88,0.73,0.53,0.90
+56,Chrome City,Neon Echo,synthwave,moody,0.79,116,0.47,0.77,0.16
+57,Signal Fire,Voltline,rock,intense,0.97,162,0.37,0.63,0.06
+58,Mind Map,LoRoom,lofi,focused,0.36,77,0.56,0.58,0.86
+59,Confetti Rain,Indigo Parade,indie pop,happy,0.71,122,0.87,0.82,0.42
+60,Phantom Drive,Neon Echo,synthwave,moody,0.81,118,0.45,0.78,0.17

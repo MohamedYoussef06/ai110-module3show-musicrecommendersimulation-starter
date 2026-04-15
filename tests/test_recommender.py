@@ -26,6 +26,10 @@ def make_small_recommender() -> Recommender:
             danceability=0.5,
             acousticness=0.9,
         ),
+        Song(
+            id= 3
+            
+        )
     ]
     return Recommender(songs)
 

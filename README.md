@@ -30,6 +30,7 @@ Some prompts to answer:
 You can include a simple diagram or bullet list if helpful.
 
 ---
+Real world recommendations occur from every attriubute having similar or higher weights to determine the user's music taste. Giving high weights to attributes such as the genere and mood will keep the user in their designated music area that they love listening to. This recommendation system is called content-based where we are predicting the user's music taste based on their history of songs.
 
 ## Getting Started
 

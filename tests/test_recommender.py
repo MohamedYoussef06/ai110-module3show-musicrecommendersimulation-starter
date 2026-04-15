@@ -27,9 +27,17 @@ def make_small_recommender() -> Recommender:
             acousticness=0.9,
         ),
         Song(
-            id= 3
-            
-        )
+            id=3,
+            title="Intense Rock Track",
+            artist="Test Artist",
+            genre="rock",
+            mood="intense",
+            energy=0.95,
+            tempo_bpm=155,
+            valence=0.4,
+            danceability=0.65,
+            acousticness=0.08,
+        ),
     ]
     return Recommender(songs)
 
